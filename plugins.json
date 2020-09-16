@@ -1,0 +1,34 @@
+[
+  {
+    "projectUrl": "https://github.com/tj28/openosrs-plugins",
+    "provider": "tj28",
+    "name": "Deadman",
+    "description": "Alerts when player is detected",
+    "id": "deadman",
+    "releases": [
+      {
+        "date": "2020-09-16",
+        "sha512sum": "BB5ABE3E614D21E32AC014C2E4FB458A883D7549BE3B453142888150687667F91998C6BF27A5787C54092D08E4754B0242FC6EBD80C04A287577BFD3A98FC31C",
+        "version": "0.0.1",
+        "url": "https://github.com/tj28/openosrs-plugins/blob/master/deadman.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+   },
+   {
+    "projectUrl": "https://github.com/tj28/openosrs-plugins",
+    "provider": "tj28",
+    "name": "TheInferno",
+    "description": "Writes hitboxes in upper-right corner",
+    "id": "theinferno",
+    "releases": [
+      {
+        "date": "2020-09-16",
+        "sha512sum": "D1DF42B6B8F20A32A747DB5C18D97DA8752ECDDC2187DC409AF4E4DFB139E49D70DC93E76EB240A3CFF25333D949653BCA50599E74BAB376A2125A8B499E73A7",
+        "version": "0.0.1",
+        "url": "https://github.com/tj28/openosrs-plugins/blob/master/theinferno.jar?raw=true",
+        "requires": "0.0.1"
+      }
+    ]
+  }
+]
